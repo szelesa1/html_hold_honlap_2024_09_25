@@ -9,3 +9,21 @@ td,th {
 
 
 /* További beállítások a feladat szerint */
+h1{
+        color: blue;
+}
+
+#vastag{
+        font-weight: bold;
+}
+
+h1, h2{
+        font-family: Arial, Helvetica, sans-serif;
+}
+caption{
+        font-style: italic;
+}
+
+td, th{
+        background-color: lightblue;
+}
